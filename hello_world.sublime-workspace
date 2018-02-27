@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list-sy",
+				"list-style-type"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"print",
+				"printHello"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"c",
+				"cols\tAttr"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"b",
+				"border-spacing"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Code Folding: Unfold All"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/novelty/git_test/hello_world.txt",
+		"/Users/novelty/Desktop/Web development/main.js",
+		"/Users/novelty/Desktop/Web development/main.css",
+		"/Users/novelty/Desktop/Web development/Index.html",
+		"/Users/novelty/Desktop/Web development/page3.html",
+		"/Users/novelty/Desktop/Web development/page2.html",
+		"/Users/novelty/Desktop/Index.html",
+		"/Users/novelty/Downloads/android-sdk-macosx/system-images/android-24/android-tv/x86/source.properties",
+		"/Users/novelty/Desktop/HelloWorld.java",
+		"/Users/novelty/Documents/ri20min.rb",
+		"/Users/novelty/Desktop/lytrel.rb",
+		"/Users/novelty/Downloads/practice-problems/problems/20-num-repeats.rb",
+		"/Users/novelty/Downloads/practice-problems/problems/07-most-letters.rb",
+		"/Users/novelty/Downloads/practice-problems/problems/19-caesar-cipher.rb",
+		"/Users/novelty/Downloads/practice-problems/solutions/00-reverse.rb",
+		"/Users/novelty/Downloads/practice-problems/problems/00-reverse.rb",
+		"/Users/novelty/Desktop/Lytrel.S_Final/contact.html",
+		"/Users/novelty/Desktop/Lytrel.S_Final/picgallery.html",
+		"/Users/novelty/Desktop/Lytrel.S_Final/style.css",
+		"/Users/novelty/Downloads/transition/css/screen.css",
+		"/Users/novelty/Dropbox/__assets/followAlong/ContactForm/assets/css/styles.css",
+		"/Users/novelty/Dropbox/__assets/followAlong/ContactForm/assets/css/styles copy.css",
+		"/Users/novelty/Desktop/new work/mypage.html",
+		"/Users/novelty/Desktop/new work/main.html",
+		"/Users/novelty/Desktop/new work/contact.html",
+		"/Users/novelty/Desktop/new work/gallery.html",
+		"/Users/novelty/Desktop/new work/index.html",
+		"/Users/novelty/Desktop/new work/style.css",
+		"/Volumes/Transcend/new work/java.js",
+		"/Volumes/Transcend/new work/style.css",
+		"/Volumes/Transcend/new work/contact.html",
+		"/Users/novelty/Desktop/Web Class/JavaJamnew/index.html",
+		"/Users/novelty/Desktop/Web Class/JavaJamnew/menu.html",
+		"/Users/novelty/Desktop/Web Class/JavaJamnew/music.html",
+		"/Users/novelty/Desktop/Web Class/JavaJamnew/stylesheet.css",
+		"/Users/novelty/Desktop/Web Class/JavaJamnew/jobs.html",
+		"/Users/novelty/Desktop/lytrel final/mystyle.css",
+		"/Users/novelty/Desktop/CSSZenGarden case/mystyle.css",
+		"/Users/novelty/Desktop/JavaJamlytrel copy/menu.html",
+		"/Users/novelty/Desktop/JavaJamlytrel copy/music.html",
+		"/Users/novelty/Desktop/JavaJamlytrel copy/index.html",
+		"/Users/novelty/Desktop/JavaJamlytrel copy/javajammobile.css",
+		"/Volumes/Transcend/JavaJamlytrel2/index.html",
+		"/Volumes/Transcend/JavaJamlytrel2/menu.html",
+		"/Volumes/Transcend/JavaJamlytrel2/music.html",
+		"/Volumes/Transcend/JavaJamlytrel/menu.html",
+		"/Volumes/Transcend/JavaJamlytrel/index.html",
+		"/Volumes/Transcend/JavaJamlytrel/music.html",
+		"/Users/novelty/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Golden Gate Bridge",
+			"td",
+			"<thead>",
+			"House"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello_world.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
